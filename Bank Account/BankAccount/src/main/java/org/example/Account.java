@@ -15,5 +15,5 @@ public class Account {
         void deposit(double quantity) {
             this.balance	+=	quantity;
         }
-    }
+}
 
